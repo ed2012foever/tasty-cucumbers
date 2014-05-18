@@ -1,8 +1,9 @@
 package ie.tucan.bdd;
 
 /**
- * Hello world!
- *
+ * Driver class for the cucumber app
+ * 
+ * @author Ed Gohery
  */
 public class App 
 {
