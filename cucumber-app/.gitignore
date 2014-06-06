@@ -1,9 +1,8 @@
-# ignore all bin directories
-# matches "bin" in any subfolder
-bin/
+# Eclipse
+.classpath
+.project
+.settings/
 
-# ignore all target directories
+# Maven
+log/
 target/
-
-# ignore all files ending with ~
-*~
